@@ -1,0 +1,20 @@
+body{
+    background-color: skyblue;
+}
+
+
+
+/*ejemplo de div de css*/
+.contenedor1 {
+  
+   
+    background: #3498db; /* Fondo azul */
+  
+}
+
+.contenedor2 {
+    
+    
+    background: #e74c3c; /* Fondo rojo */
+   
+}
