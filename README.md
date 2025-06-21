@@ -1,2 +1,0 @@
-# Programacion
-Codigos basicos
